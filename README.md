@@ -1,6 +1,7 @@
 # postgraduate-entrance-examination-adjustment
 
 考研调剂小工具，帮你选出最值得调剂的学校。
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.2.4.
 
 ## Development server
