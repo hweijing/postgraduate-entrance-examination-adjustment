@@ -1,5 +1,4 @@
 import { Component } from '@angular/core';
-import { format } from 'path';
 import { FormatService } from './services/format.service';
 import { FormatedSchool, School } from './types/interfaces';
 
