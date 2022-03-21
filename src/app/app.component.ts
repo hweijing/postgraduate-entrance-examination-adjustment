@@ -9,7 +9,7 @@ import { FormatedSchool, School } from './types/interfaces';
 })
 export class AppComponent {
   constructor(
-    private formatService: FormatService
+    private formatService: FormatService,
   ) { }
 
   public calculate(schools: School[]): void {
