@@ -31,7 +31,5 @@ export class AppComponent {
       });
       finallySchools.push(allotedSchool[0]);
     });
-
-    console.log(finallySchools);
   }
 }
