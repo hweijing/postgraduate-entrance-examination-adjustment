@@ -8,7 +8,6 @@ import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { NZ_I18N, zh_CN } from 'ng-zorro-antd/i18n';
 import { AppComponent } from './app.component';
 
-
 registerLocaleData(zh);
 
 @NgModule({
